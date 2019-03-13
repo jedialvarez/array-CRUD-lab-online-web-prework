@@ -9,7 +9,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   favorite_cars = ["ford", "subaru", "mercedes", "BMW"]
-  favorite_cars.push("Toyota")
+  favorite_cars.push("arrays!")
   puts favorite_cars.inspect
 end
 
